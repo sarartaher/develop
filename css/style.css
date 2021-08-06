@@ -1,0 +1,46 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+.navbar {
+  background-color: #f0fff0;
+  color: black;
+}
+#sign {
+  border-radius: 33px;
+}
+#logo {
+  width: 198.07px;
+}
+#logo1 {
+  width: 65px;
+}
+#header-img {
+  width: 100%;
+}
+.header-section {
+  background-color: #f0fff0;
+  color: black;
+}
+#h-p {
+  color: red;
+}
+
+.item1 {
+  box-shadow: 0px 20px 40px whitesmoke;
+  border-radius: 10px;
+  margin-left: 8px;
+  margin-right: 8px;
+  padding-top: 20px;
+  width: 250px;
+}
+.card {
+  border-radius: 10px;
+}
+.card-footer-image {
+  width: 24px;
+}
